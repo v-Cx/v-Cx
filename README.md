@@ -8,6 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=v-Cx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=v-Cx&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=v-Cx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=v-Cx&icon=3&color=3)](https://visitcount.itsvg.in)
